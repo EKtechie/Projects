@@ -22,5 +22,8 @@ Delivered insights into optimal content types, helping guide improvements to the
 
 The project provided actionable recommendations for enhancing the newsfeed’s relevance and interactivity—encouraging more user-generated content and supporting platform engagement, subscriptions, and community growth.
 
+🔗 View interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/eswarakumar.j/viz/newsfeed_analysis_17526577359310/Dashboard3)
+
+
 Guided by: 365 Data Science
 
