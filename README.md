@@ -1,6 +1,7 @@
 **Newsfeed Analysis in Tableau**
 
 Tools: Tableau, Excel
+
 Skills: Data Visualization, User Engagement Analysis, Dashboard Design, Data-Driven Strategy
 
 **Description:**
