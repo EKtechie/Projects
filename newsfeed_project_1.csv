@@ -1,0 +1,825 @@
+﻿Post Date,Post Subtype,Post Type,Avg Likes Per post,Number Of Comments,Number Of Likes,Number Of Posts
+01-Jan-23,Text Post,Text Post,1,4,5,5
+01-Jan-23,Level,Visual,0.022471910,0,2,89
+01-Jan-23,Goal,Visual,0.475409836,0,29,61
+01-Jan-23,Streak,Visual,0.2,0,6,30
+01-Jan-23,Collection,Visual,0.025,0,1,40
+01-Jan-23,Course Certificate,Visual,0.179487179,0,7,39
+02-Jan-23,Text Post,Text Post,1,1,1,1
+02-Jan-23,Level,Visual,0.007462687,0,1,134
+02-Jan-23,Goal,Visual,0.25,0,1,4
+02-Jan-23,Streak,Visual,0.157894737,0,3,19
+02-Jan-23,Collection,Visual,0,0,0,74
+02-Jan-23,Course Certificate,Visual,0.258620690,0,15,58
+03-Jan-23,Text Post,Text Post,1,1,1,1
+03-Jan-23,Level,Visual,0.044117647,0,6,136
+03-Jan-23,Streak,Visual,0.2,0,3,15
+03-Jan-23,Collection,Visual,0,0,0,79
+03-Jan-23,Course Certificate,Visual,0.305555556,0,11,36
+04-Jan-23,Text Post,Text Post,1,1,3,3
+04-Jan-23,Level,Visual,0.022058824,0,3,136
+04-Jan-23,Streak,Visual,0.222222222,0,4,18
+04-Jan-23,Collection,Visual,0.016393443,0,1,61
+04-Jan-23,Course Certificate,Visual,0.288135593,3,17,59
+05-Jan-23,Text Post,Text Post,1,1,2,2
+05-Jan-23,Level,Visual,0.066176471,2,9,136
+05-Jan-23,Streak,Visual,0.129032258,0,4,31
+05-Jan-23,Collection,Visual,0.086956522,0,6,69
+05-Jan-23,Course Certificate,Visual,0.113207547,0,6,53
+06-Jan-23,Level,Visual,0.021897810,1,3,137
+06-Jan-23,Streak,Visual,0.142857143,0,4,28
+06-Jan-23,Collection,Visual,0,0,0,57
+06-Jan-23,Course Certificate,Visual,0.173076923,1,9,52
+07-Jan-23,Level,Visual,0.009803922,0,1,102
+07-Jan-23,Goal,Visual,0.666666667,0,2,3
+07-Jan-23,Streak,Visual,0.179487179,0,7,39
+07-Jan-23,Collection,Visual,0.035714286,0,2,56
+07-Jan-23,Course Certificate,Visual,0.2,1,7,35
+07-Jan-23,Career Track Certificate,Visual,0.5,1,1,2
+08-Jan-23,Level,Visual,0.027210884,1,4,147
+08-Jan-23,Goal,Visual,0.516129032,0,32,62
+08-Jan-23,Streak,Visual,0.206896552,0,6,29
+08-Jan-23,Collection,Visual,0.036363636,0,2,55
+08-Jan-23,Course Certificate,Visual,0.139240506,0,11,79
+09-Jan-23,Text Post,Text Post,1,1,1,1
+09-Jan-23,Level,Visual,0.017241379,0,2,116
+09-Jan-23,Goal,Visual,0,0,0,2
+09-Jan-23,Streak,Visual,0.178571429,0,5,28
+09-Jan-23,Collection,Visual,0.063291139,1,5,79
+09-Jan-23,Course Certificate,Visual,0.191489362,2,9,47
+09-Jan-23,Career Track Certificate,Visual,1,1,1,1
+10-Jan-23,Text Post,Text Post,1,2,2,2
+10-Jan-23,Level,Visual,0,0,0,135
+10-Jan-23,Streak,Visual,0.25,0,7,28
+10-Jan-23,Collection,Visual,0.016666667,0,1,60
+10-Jan-23,Course Certificate,Visual,0.181818182,0,8,44
+10-Jan-23,Career Track Certificate,Visual,0.5,1,1,2
+11-Jan-23,Text Post,Text Post,1,3,3,3
+11-Jan-23,Level,Visual,0.029629630,2,4,135
+11-Jan-23,Streak,Visual,0.166666667,1,4,24
+11-Jan-23,Collection,Visual,0.032258065,0,2,62
+11-Jan-23,Course Certificate,Visual,0.224489796,0,11,49
+11-Jan-23,Career Track Certificate,Visual,0,0,0,1
+12-Jan-23,Level,Visual,0.023622047,0,3,127
+12-Jan-23,Streak,Visual,0.269230769,0,7,26
+12-Jan-23,Collection,Visual,0.033898305,0,2,59
+12-Jan-23,Course Certificate,Visual,0.282608696,1,13,46
+13-Jan-23,Text Post,Text Post,1,2,2,2
+13-Jan-23,Level,Visual,0.047244094,0,6,127
+13-Jan-23,Streak,Visual,0.119047619,0,5,42
+13-Jan-23,Collection,Visual,0.061224490,0,3,49
+13-Jan-23,Course Certificate,Visual,0.333333333,0,18,54
+14-Jan-23,Text Post,Text Post,1,1,1,1
+14-Jan-23,Level,Visual,0.101851852,0,11,108
+14-Jan-23,Goal,Visual,0.6,0,3,5
+14-Jan-23,Streak,Visual,0.277777778,0,10,36
+14-Jan-23,Collection,Visual,0.038461538,0,1,26
+14-Jan-23,Course Certificate,Visual,0.454545455,0,35,77
+14-Jan-23,Career Track Certificate,Visual,0.75,0,3,4
+15-Jan-23,Text Post,Text Post,1,1,2,2
+15-Jan-23,Level,Visual,0.022556391,0,3,133
+15-Jan-23,Goal,Visual,0.479452055,0,35,73
+15-Jan-23,Streak,Visual,0.241379310,0,7,29
+15-Jan-23,Collection,Visual,0,0,0,52
+15-Jan-23,Course Certificate,Visual,0.136363636,1,9,66
+16-Jan-23,Text Post,Text Post,1,2,2,2
+16-Jan-23,Level,Visual,0.033613445,0,4,119
+16-Jan-23,Goal,Visual,0.5,0,1,2
+16-Jan-23,Streak,Visual,0.470588235,1,8,17
+16-Jan-23,Collection,Visual,0.017543860,0,1,57
+16-Jan-23,Course Certificate,Visual,0.102272727,0,9,88
+17-Jan-23,Level,Visual,0.013422819,0,2,149
+17-Jan-23,Streak,Visual,0.375,1,9,24
+17-Jan-23,Collection,Visual,0.030769231,0,2,65
+17-Jan-23,Course Certificate,Visual,0.183333333,0,11,60
+17-Jan-23,Career Track Certificate,Visual,1,1,1,1
+18-Jan-23,Text Post,Text Post,1,0,1,1
+18-Jan-23,Level,Visual,0.028985507,0,4,138
+18-Jan-23,Streak,Visual,0.181818182,0,4,22
+18-Jan-23,Collection,Visual,0.042857143,0,3,70
+18-Jan-23,Course Certificate,Visual,0.166666667,1,10,60
+19-Jan-23,Text Post,Text Post,1,1,1,1
+19-Jan-23,Level,Visual,0.007692308,1,1,130
+19-Jan-23,Streak,Visual,0.25,0,6,24
+19-Jan-23,Collection,Visual,0.019607843,0,1,51
+19-Jan-23,Course Certificate,Visual,0.203125,0,13,64
+20-Jan-23,Text Post,Text Post,1,1,1,1
+20-Jan-23,Level,Visual,0.010526316,1,1,95
+20-Jan-23,Streak,Visual,0.060606061,0,2,33
+20-Jan-23,Collection,Visual,0,0,0,54
+20-Jan-23,Course Certificate,Visual,0.152173913,0,7,46
+21-Jan-23,Text Post,Text Post,1,1,1,1
+21-Jan-23,Level,Visual,0,0,0,96
+21-Jan-23,Goal,Visual,0.333333333,0,2,6
+21-Jan-23,Streak,Visual,0.193548387,0,6,31
+21-Jan-23,Collection,Visual,0.023255814,0,1,43
+21-Jan-23,Course Certificate,Visual,0.189189189,1,7,37
+22-Jan-23,Text Post,Text Post,1,2,2,2
+22-Jan-23,Level,Visual,0.043478261,0,5,115
+22-Jan-23,Goal,Visual,0.537313433,0,36,67
+22-Jan-23,Streak,Visual,0.083333333,0,2,24
+22-Jan-23,Collection,Visual,0,0,0,63
+22-Jan-23,Course Certificate,Visual,0.227272727,0,15,66
+23-Jan-23,Level,Visual,0.016806723,0,2,119
+23-Jan-23,Goal,Visual,0.5,1,2,4
+23-Jan-23,Streak,Visual,0.222222222,0,6,27
+23-Jan-23,Collection,Visual,0.023809524,0,1,42
+23-Jan-23,Course Certificate,Visual,0.120689655,0,7,58
+23-Jan-23,Career Track Certificate,Visual,1,1,1,1
+24-Jan-23,Text Post,Text Post,1,0,1,1
+24-Jan-23,Level,Visual,0.008064516,0,1,124
+24-Jan-23,Streak,Visual,0.130434783,1,3,23
+24-Jan-23,Collection,Visual,0.019230769,0,1,52
+24-Jan-23,Course Certificate,Visual,0.114285714,0,8,70
+24-Jan-23,Career Track Certificate,Visual,0,0,0,1
+25-Jan-23,Text Post,Text Post,1,2,3,3
+25-Jan-23,Level,Visual,0.016666667,0,2,120
+25-Jan-23,Streak,Visual,0.115384615,0,3,26
+25-Jan-23,Collection,Visual,0.015384615,0,1,65
+25-Jan-23,Course Certificate,Visual,0.188405797,0,13,69
+25-Jan-23,Career Track Certificate,Visual,1,0,1,1
+26-Jan-23,Text Post,Text Post,1,1,1,1
+26-Jan-23,Level,Visual,0.033613445,0,4,119
+26-Jan-23,Streak,Visual,0.115384615,0,3,26
+26-Jan-23,Collection,Visual,0.034482759,0,2,58
+26-Jan-23,Course Certificate,Visual,0.191489362,0,9,47
+27-Jan-23,Level,Visual,0.045871560,0,5,109
+27-Jan-23,Streak,Visual,0.058823529,0,1,17
+27-Jan-23,Collection,Visual,0.02,0,1,50
+27-Jan-23,Course Certificate,Visual,0.14,0,7,50
+27-Jan-23,Career Track Certificate,Visual,0.333333333,1,1,3
+28-Jan-23,Level,Visual,0.026548673,0,3,113
+28-Jan-23,Goal,Visual,0.625,0,5,8
+28-Jan-23,Streak,Visual,0.171428571,0,6,35
+28-Jan-23,Collection,Visual,0,0,0,69
+28-Jan-23,Course Certificate,Visual,0.384615385,0,20,52
+29-Jan-23,Level,Visual,0.036036036,0,4,111
+29-Jan-23,Goal,Visual,0.394366197,0,28,71
+29-Jan-23,Streak,Visual,0.227272727,0,5,22
+29-Jan-23,Collection,Visual,0.094339623,0,5,53
+29-Jan-23,Course Certificate,Visual,0.242424242,0,16,66
+29-Jan-23,Career Track Certificate,Visual,0.25,0,1,4
+30-Jan-23,Text Post,Text Post,1,0,2,2
+30-Jan-23,Level,Visual,0,0,0,128
+30-Jan-23,Goal,Visual,0,0,0,2
+30-Jan-23,Streak,Visual,0.260869565,0,6,23
+30-Jan-23,Collection,Visual,0.027027027,0,2,74
+30-Jan-23,Course Certificate,Visual,0.203389831,1,12,59
+30-Jan-23,Career Track Certificate,Visual,0,0,0,1
+31-Jan-23,Text Post,Text Post,1,1,1,1
+31-Jan-23,Level,Visual,0,0,0,145
+31-Jan-23,Streak,Visual,0.194444444,0,7,36
+31-Jan-23,Collection,Visual,0,0,0,75
+31-Jan-23,Course Certificate,Visual,0.194029851,1,13,67
+31-Jan-23,Career Track Certificate,Visual,0.5,0,1,2
+01-Feb-23,Level,Visual,0.006711409,0,1,149
+01-Feb-23,Streak,Visual,0.181818182,0,4,22
+01-Feb-23,Collection,Visual,0,0,0,57
+01-Feb-23,Course Certificate,Visual,0.225806452,0,14,62
+01-Feb-23,Career Track Certificate,Visual,0,0,0,1
+02-Feb-23,Text Post,Text Post,1,0,1,1
+02-Feb-23,Level,Visual,0.029629630,0,4,135
+02-Feb-23,Streak,Visual,0.185185185,0,5,27
+02-Feb-23,Collection,Visual,0.044776119,0,3,67
+02-Feb-23,Course Certificate,Visual,0.122448980,0,6,49
+03-Feb-23,Level,Visual,0.042016807,1,5,119
+03-Feb-23,Streak,Visual,0.114285714,0,4,35
+03-Feb-23,Collection,Visual,0,0,0,43
+03-Feb-23,Course Certificate,Visual,0.142857143,0,5,35
+03-Feb-23,Career Track Certificate,Visual,1,1,1,1
+04-Feb-23,Level,Visual,0.037383178,1,4,107
+04-Feb-23,Goal,Visual,0.375,0,3,8
+04-Feb-23,Streak,Visual,0.181818182,0,6,33
+04-Feb-23,Collection,Visual,0,0,0,42
+04-Feb-23,Course Certificate,Visual,0.179487179,0,7,39
+05-Feb-23,Level,Visual,0.033057851,0,4,121
+05-Feb-23,Goal,Visual,0.453333333,0,34,75
+05-Feb-23,Streak,Visual,0.045454545,0,1,22
+05-Feb-23,Collection,Visual,0.040816327,0,2,49
+05-Feb-23,Course Certificate,Visual,0.140625,0,9,64
+06-Feb-23,Text Post,Text Post,1,0,1,1
+06-Feb-23,Level,Visual,0.033613445,0,4,119
+06-Feb-23,Goal,Visual,0,0,0,3
+06-Feb-23,Streak,Visual,0.142857143,0,4,28
+06-Feb-23,Collection,Visual,0.067796610,0,4,59
+06-Feb-23,Course Certificate,Visual,0.178571429,0,10,56
+06-Feb-23,Career Track Certificate,Visual,1,0,1,1
+07-Feb-23,Level,Visual,0.036036036,0,4,111
+07-Feb-23,Streak,Visual,0.370370370,0,10,27
+07-Feb-23,Collection,Visual,0.061224490,0,3,49
+07-Feb-23,Course Certificate,Visual,0.254545455,0,14,55
+08-Feb-23,Level,Visual,0.008264463,0,1,121
+08-Feb-23,Streak,Visual,0.142857143,0,3,21
+08-Feb-23,Collection,Visual,0,0,0,38
+08-Feb-23,Course Certificate,Visual,0.194444444,0,7,36
+08-Feb-23,Career Track Certificate,Visual,1,0,1,1
+09-Feb-23,Level,Visual,0.045112782,0,6,133
+09-Feb-23,Streak,Visual,0.142857143,0,3,21
+09-Feb-23,Collection,Visual,0,0,0,51
+09-Feb-23,Course Certificate,Visual,0.46,0,23,50
+09-Feb-23,Career Track Certificate,Visual,1,1,1,1
+10-Feb-23,Level,Visual,0.008196721,0,1,122
+10-Feb-23,Streak,Visual,0.35,0,7,20
+10-Feb-23,Collection,Visual,0.029411765,0,1,34
+10-Feb-23,Course Certificate,Visual,0.171875,0,11,64
+11-Feb-23,Level,Visual,0.011111111,0,1,90
+11-Feb-23,Goal,Visual,0.714285714,0,5,7
+11-Feb-23,Streak,Visual,0.285714286,0,12,42
+11-Feb-23,Collection,Visual,0,0,0,30
+11-Feb-23,Course Certificate,Visual,0.148148148,0,8,54
+12-Feb-23,Text Post,Text Post,1,0,1,1
+12-Feb-23,Level,Visual,0.018181818,0,2,110
+12-Feb-23,Goal,Visual,0.447761194,0,30,67
+12-Feb-23,Streak,Visual,0.125,0,3,24
+12-Feb-23,Collection,Visual,0.027777778,0,1,36
+12-Feb-23,Course Certificate,Visual,0.1,0,5,50
+13-Feb-23,Level,Visual,0.017857143,0,2,112
+13-Feb-23,Goal,Visual,0.333333333,0,2,6
+13-Feb-23,Streak,Visual,0.157894737,0,3,19
+13-Feb-23,Collection,Visual,0.0625,0,3,48
+13-Feb-23,Course Certificate,Visual,0.014705882,1,1,68
+13-Feb-23,Career Track Certificate,Visual,1,0,1,1
+14-Feb-23,Text Post,Text Post,1,1,1,1
+14-Feb-23,Level,Visual,0.015037594,0,2,133
+14-Feb-23,Streak,Visual,0.1,0,2,20
+14-Feb-23,Collection,Visual,0.016393443,0,1,61
+14-Feb-23,Course Certificate,Visual,0.166666667,0,10,60
+15-Feb-23,Level,Visual,0.013986014,0,2,143
+15-Feb-23,Streak,Visual,0.181818182,0,4,22
+15-Feb-23,Collection,Visual,0,0,0,48
+15-Feb-23,Course Certificate,Visual,0.171428571,0,12,70
+16-Feb-23,Text Post,Text Post,1,1,1,1
+16-Feb-23,Level,Visual,0.007246377,0,1,138
+16-Feb-23,Streak,Visual,0.130434783,0,3,23
+16-Feb-23,Collection,Visual,0,0,0,39
+16-Feb-23,Course Certificate,Visual,0.083333333,0,3,36
+17-Feb-23,Text Post,Text Post,1,1,1,1
+17-Feb-23,Level,Visual,0.015151515,0,2,132
+17-Feb-23,Streak,Visual,0.0625,0,1,16
+17-Feb-23,Collection,Visual,0,0,0,31
+17-Feb-23,Course Certificate,Visual,0.25,0,11,44
+18-Feb-23,Level,Visual,0,0,0,111
+18-Feb-23,Goal,Visual,0.375,0,3,8
+18-Feb-23,Streak,Visual,0.083333333,0,2,24
+18-Feb-23,Collection,Visual,0.054054054,0,2,37
+18-Feb-23,Course Certificate,Visual,0.333333333,0,13,39
+19-Feb-23,Text Post,Text Post,1,4,4,4
+19-Feb-23,Level,Visual,0.026548673,0,3,113
+19-Feb-23,Goal,Visual,0.451612903,0,28,62
+19-Feb-23,Streak,Visual,0.25,0,5,20
+19-Feb-23,Collection,Visual,0,0,0,38
+19-Feb-23,Course Certificate,Visual,0.390625,0,25,64
+19-Feb-23,Career Track Certificate,Visual,1,1,2,2
+20-Feb-23,Text Post,Text Post,1,1,2,2
+20-Feb-23,Level,Visual,0.048387097,0,6,124
+20-Feb-23,Goal,Visual,0.142857143,0,1,7
+20-Feb-23,Streak,Visual,0.222222222,0,4,18
+20-Feb-23,Collection,Visual,0,0,0,40
+20-Feb-23,Course Certificate,Visual,0.102040816,0,5,49
+20-Feb-23,Career Track Certificate,Visual,0,0,0,1
+21-Feb-23,Text Post,Text Post,1,2,2,2
+21-Feb-23,Level,Visual,0.026315789,1,4,152
+21-Feb-23,Streak,Visual,0.185185185,1,5,27
+21-Feb-23,Collection,Visual,0,0,0,52
+21-Feb-23,Course Certificate,Visual,0.090909091,0,5,55
+21-Feb-23,Career Track Certificate,Visual,0.5,1,1,2
+22-Feb-23,Text Post,Text Post,1,1,1,1
+22-Feb-23,Level,Visual,0.015151515,0,2,132
+22-Feb-23,Streak,Visual,0.136363636,0,3,22
+22-Feb-23,Collection,Visual,0.0625,0,3,48
+22-Feb-23,Course Certificate,Visual,0.127272727,0,7,55
+22-Feb-23,Career Track Certificate,Visual,0,0,0,1
+23-Feb-23,Text Post,Text Post,1,3,3,3
+23-Feb-23,Level,Visual,0,0,0,150
+23-Feb-23,Streak,Visual,0,0,0,25
+23-Feb-23,Collection,Visual,0.051282051,0,2,39
+23-Feb-23,Course Certificate,Visual,0.163636364,0,9,55
+23-Feb-23,Career Track Certificate,Visual,0,0,0,1
+24-Feb-23,Text Post,Text Post,0,1,0,1
+24-Feb-23,Level,Visual,0.012738854,0,2,157
+24-Feb-23,Streak,Visual,0.148148148,0,4,27
+24-Feb-23,Collection,Visual,0.026315789,0,1,38
+24-Feb-23,Course Certificate,Visual,0.282608696,1,13,46
+24-Feb-23,Career Track Certificate,Visual,1,0,1,1
+25-Feb-23,Level,Visual,0.013422819,0,2,149
+25-Feb-23,Goal,Visual,0.5,0,4,8
+25-Feb-23,Streak,Visual,0.227272727,0,5,22
+25-Feb-23,Collection,Visual,0.027777778,0,1,36
+25-Feb-23,Course Certificate,Visual,0.3125,0,15,48
+26-Feb-23,Level,Visual,0.024590164,0,3,122
+26-Feb-23,Goal,Visual,0.526315789,0,30,57
+26-Feb-23,Streak,Visual,0.28,0,7,25
+26-Feb-23,Collection,Visual,0,0,0,36
+26-Feb-23,Course Certificate,Visual,0.340425532,2,16,47
+27-Feb-23,Level,Visual,0.042372881,0,5,118
+27-Feb-23,Goal,Visual,0,0,0,1
+27-Feb-23,Streak,Visual,0.166666667,0,5,30
+27-Feb-23,Collection,Visual,0.052631579,0,2,38
+27-Feb-23,Course Certificate,Visual,0.215686275,0,11,51
+27-Feb-23,Career Track Certificate,Visual,1,0,1,1
+28-Feb-23,Level,Visual,0.017857143,0,2,112
+28-Feb-23,Streak,Visual,0.368421053,1,7,19
+28-Feb-23,Collection,Visual,0.03125,0,1,32
+28-Feb-23,Course Certificate,Visual,0.101694915,0,6,59
+01-Mar-23,Text Post,Text Post,1,1,2,2
+01-Mar-23,Level,Visual,0.004273504,0,1,234
+01-Mar-23,Streak,Visual,0.318181818,0,7,22
+01-Mar-23,Collection,Visual,0.014184397,0,2,141
+01-Mar-23,Course Certificate,Visual,0.086206897,0,5,58
+01-Mar-23,Career Track Certificate,Visual,0,0,0,1
+02-Mar-23,Level,Visual,0.004338395,0,2,461
+02-Mar-23,Streak,Visual,0.074074074,0,2,27
+02-Mar-23,Collection,Visual,0,0,0,280
+02-Mar-23,Course Certificate,Visual,0.075471698,0,8,106
+02-Mar-23,Career Track Certificate,Visual,0,0,0,1
+03-Mar-23,Text Post,Text Post,1,1,1,1
+03-Mar-23,Level,Visual,0.010638298,0,4,376
+03-Mar-23,Streak,Visual,0.111111111,0,2,18
+03-Mar-23,Collection,Visual,0.008403361,0,2,238
+03-Mar-23,Course Certificate,Visual,0.053097345,0,6,113
+04-Mar-23,Level,Visual,0.007556675,0,3,397
+04-Mar-23,Goal,Visual,0.571428571,0,4,7
+04-Mar-23,Streak,Visual,0.166666667,0,4,24
+04-Mar-23,Collection,Visual,0.004524887,0,1,221
+04-Mar-23,Course Certificate,Visual,0.056074766,0,6,107
+05-Mar-23,Level,Visual,0.032085561,1,12,374
+05-Mar-23,Goal,Visual,0.453125,1,29,64
+05-Mar-23,Streak,Visual,0.15,0,3,20
+05-Mar-23,Collection,Visual,0.010152284,0,2,197
+05-Mar-23,Course Certificate,Visual,0.104166667,0,15,144
+05-Mar-23,Career Track Certificate,Visual,0.5,0,1,2
+06-Mar-23,Text Post,Text Post,1,0,1,1
+06-Mar-23,Level,Visual,0.025423729,0,9,354
+06-Mar-23,Goal,Visual,0.4,0,2,5
+06-Mar-23,Streak,Visual,0.090909091,0,3,33
+06-Mar-23,Collection,Visual,0.004651163,0,1,215
+06-Mar-23,Course Certificate,Visual,0.175182482,0,24,137
+06-Mar-23,Career Track Certificate,Visual,1,1,4,4
+07-Mar-23,Text Post,Text Post,1,2,3,3
+07-Mar-23,Level,Visual,0.019125683,0,7,366
+07-Mar-23,Streak,Visual,0.055555556,0,2,36
+07-Mar-23,Collection,Visual,0.024154589,0,5,207
+07-Mar-23,Course Certificate,Visual,0.082089552,0,11,134
+08-Mar-23,Level,Visual,0.004773270,0,2,419
+08-Mar-23,Streak,Visual,0.133333333,0,4,30
+08-Mar-23,Collection,Visual,0.024038462,0,5,208
+08-Mar-23,Course Certificate,Visual,0.108571429,0,19,175
+09-Mar-23,Level,Visual,0.020710059,0,7,338
+09-Mar-23,Streak,Visual,0.129032258,0,4,31
+09-Mar-23,Collection,Visual,0,0,0,149
+09-Mar-23,Course Certificate,Visual,0.114457831,0,19,166
+09-Mar-23,Career Track Certificate,Visual,0,0,0,3
+10-Mar-23,Level,Visual,0.006666667,0,2,300
+10-Mar-23,Streak,Visual,0.097560976,0,4,41
+10-Mar-23,Collection,Visual,0.007575758,0,1,132
+10-Mar-23,Course Certificate,Visual,0.035971223,0,5,139
+10-Mar-23,Career Track Certificate,Visual,0,0,0,2
+11-Mar-23,Text Post,Text Post,1,1,1,1
+11-Mar-23,Level,Visual,0.003367003,0,1,297
+11-Mar-23,Goal,Visual,0.25,0,1,4
+11-Mar-23,Streak,Visual,0.153846154,0,6,39
+11-Mar-23,Collection,Visual,0.007407407,0,1,135
+11-Mar-23,Course Certificate,Visual,0.064516129,0,10,155
+11-Mar-23,Career Track Certificate,Visual,0,0,0,1
+12-Mar-23,Text Post,Text Post,0,0,0,1
+12-Mar-23,Level,Visual,0.006711409,0,2,298
+12-Mar-23,Goal,Visual,0.265625,0,17,64
+12-Mar-23,Streak,Visual,0,0,0,36
+12-Mar-23,Collection,Visual,0,0,0,131
+12-Mar-23,Course Certificate,Visual,0.022598870,0,4,177
+12-Mar-23,Career Track Certificate,Visual,1,1,1,1
+13-Mar-23,Level,Visual,0.005633803,0,2,355
+13-Mar-23,Goal,Visual,0.166666667,0,1,6
+13-Mar-23,Streak,Visual,0,0,0,40
+13-Mar-23,Collection,Visual,0,0,0,151
+13-Mar-23,Course Certificate,Visual,0.015151515,0,3,198
+14-Mar-23,Level,Visual,0.002666667,0,1,375
+14-Mar-23,Streak,Visual,0.03125,0,1,32
+14-Mar-23,Collection,Visual,0,0,0,151
+14-Mar-23,Course Certificate,Visual,0.029702970,0,6,202
+14-Mar-23,Career Track Certificate,Visual,0,0,0,1
+15-Mar-23,Level,Visual,0.008064516,0,3,372
+15-Mar-23,Streak,Visual,0.125,0,3,24
+15-Mar-23,Collection,Visual,0.005988024,0,1,167
+15-Mar-23,Course Certificate,Visual,0.116182573,1,28,241
+16-Mar-23,Level,Visual,0.002739726,0,1,365
+16-Mar-23,Streak,Visual,0,0,0,31
+16-Mar-23,Collection,Visual,0,0,0,153
+16-Mar-23,Course Certificate,Visual,0.026737968,0,5,187
+17-Mar-23,Text Post,Text Post,0.5,2,1,2
+17-Mar-23,Level,Visual,0.013937282,0,4,287
+17-Mar-23,Streak,Visual,0.073170732,0,3,41
+17-Mar-23,Collection,Visual,0.025862069,0,3,116
+17-Mar-23,Course Certificate,Visual,0.171003717,1,46,269
+17-Mar-23,Career Track Certificate,Visual,0.75,2,3,4
+18-Mar-23,Text Post,Text Post,1,3,3,3
+18-Mar-23,Level,Visual,0.006666667,0,2,300
+18-Mar-23,Goal,Visual,0.428571429,0,3,7
+18-Mar-23,Streak,Visual,0,0,0,37
+18-Mar-23,Collection,Visual,0.019607843,0,2,102
+18-Mar-23,Course Certificate,Visual,0.037735849,0,8,212
+19-Mar-23,Level,Visual,0.009174312,0,3,327
+19-Mar-23,Goal,Visual,0.447368421,0,34,76
+19-Mar-23,Streak,Visual,0.121212121,0,4,33
+19-Mar-23,Collection,Visual,0.007751938,0,1,129
+19-Mar-23,Course Certificate,Visual,0.016891892,0,5,296
+19-Mar-23,Career Track Certificate,Visual,0,0,0,3
+20-Mar-23,Text Post,Text Post,1,1,1,1
+20-Mar-23,Level,Visual,0.007556675,0,3,397
+20-Mar-23,Goal,Visual,0.25,0,1,4
+20-Mar-23,Streak,Visual,0.074074074,0,2,27
+20-Mar-23,Collection,Visual,0,0,0,139
+20-Mar-23,Course Certificate,Visual,0.024336283,0,11,452
+20-Mar-23,Career Track Certificate,Visual,0,0,0,1
+21-Mar-23,Level,Visual,0.005420054,0,2,369
+21-Mar-23,Streak,Visual,0.068965517,1,2,29
+21-Mar-23,Collection,Visual,0.022058824,0,3,136
+21-Mar-23,Course Certificate,Visual,0.019379845,0,10,516
+21-Mar-23,Career Track Certificate,Visual,0,0,0,5
+22-Mar-23,Text Post,Text Post,1,1,1,1
+22-Mar-23,Level,Visual,0.01,0,1,100
+22-Mar-23,Streak,Visual,0.133333333,0,2,15
+22-Mar-23,Collection,Visual,0.023809524,0,1,42
+22-Mar-23,Course Certificate,Visual,0.222222222,0,8,36
+22-Mar-23,Career Track Certificate,Visual,0,0,0,1
+23-Mar-23,Text Post,Text Post,1,1,1,1
+23-Mar-23,Level,Visual,0,0,0,105
+23-Mar-23,Streak,Visual,0.25,0,6,24
+23-Mar-23,Collection,Visual,0,0,0,52
+23-Mar-23,Course Certificate,Visual,0.121951220,0,5,41
+23-Mar-23,Career Track Certificate,Visual,0,0,0,1
+24-Mar-23,Text Post,Text Post,1,0,1,1
+24-Mar-23,Level,Visual,0.011363636,0,1,88
+24-Mar-23,Streak,Visual,0.105263158,0,2,19
+24-Mar-23,Collection,Visual,0,0,0,35
+24-Mar-23,Course Certificate,Visual,0.057142857,0,2,35
+25-Mar-23,Level,Visual,0.023529412,0,2,85
+25-Mar-23,Goal,Visual,0.6,0,3,5
+25-Mar-23,Streak,Visual,0.148148148,0,4,27
+25-Mar-23,Collection,Visual,0.052631579,0,2,38
+25-Mar-23,Course Certificate,Visual,0.133333333,0,4,30
+26-Mar-23,Level,Visual,0.024096386,1,2,83
+26-Mar-23,Goal,Visual,0.483333333,0,29,60
+26-Mar-23,Streak,Visual,0.2,0,3,15
+26-Mar-23,Collection,Visual,0.025,0,1,40
+26-Mar-23,Course Certificate,Visual,0.068965517,0,4,58
+26-Mar-23,Career Track Certificate,Visual,0,0,0,1
+27-Mar-23,Level,Visual,0.022222222,0,2,90
+27-Mar-23,Goal,Visual,0.5,0,1,2
+27-Mar-23,Streak,Visual,0.263157895,0,5,19
+27-Mar-23,Collection,Visual,0.030303030,0,1,33
+27-Mar-23,Course Certificate,Visual,0.111111111,0,4,36
+28-Mar-23,Text Post,Text Post,1,1,2,2
+28-Mar-23,Level,Visual,0.038461538,0,3,78
+28-Mar-23,Streak,Visual,0.074074074,0,2,27
+28-Mar-23,Collection,Visual,0.074074074,0,2,27
+28-Mar-23,Course Certificate,Visual,0.189189189,0,7,37
+29-Mar-23,Text Post,Text Post,1,4,6,6
+29-Mar-23,Level,Visual,0.05,0,4,80
+29-Mar-23,Streak,Visual,0.222222222,0,4,18
+29-Mar-23,Collection,Visual,0.030303030,0,1,33
+29-Mar-23,Course Certificate,Visual,0.219512195,0,9,41
+29-Mar-23,Career Track Certificate,Visual,0,0,0,1
+30-Mar-23,Text Post,Text Post,1,1,2,2
+30-Mar-23,Level,Visual,0.050632911,1,4,79
+30-Mar-23,Streak,Visual,0.12,0,3,25
+30-Mar-23,Collection,Visual,0.0625,0,2,32
+30-Mar-23,Course Certificate,Visual,0.191489362,1,9,47
+31-Mar-23,Text Post,Text Post,1,1,1,1
+31-Mar-23,Level,Visual,0.022471910,1,2,89
+31-Mar-23,Streak,Visual,0.15,0,3,20
+31-Mar-23,Collection,Visual,0,0,0,38
+31-Mar-23,Course Certificate,Visual,0.339622642,0,18,53
+31-Mar-23,Career Track Certificate,Visual,0.333333333,1,1,3
+01-Apr-23,Text Post,Text Post,1,1,1,1
+01-Apr-23,Level,Visual,0.030927835,0,3,97
+01-Apr-23,Goal,Visual,0.6,0,3,5
+01-Apr-23,Streak,Visual,0.178571429,0,5,28
+01-Apr-23,Collection,Visual,0,0,0,24
+01-Apr-23,Course Certificate,Visual,0.172413793,0,5,29
+02-Apr-23,Text Post,Text Post,1,1,1,1
+02-Apr-23,Level,Visual,0.053191489,0,5,94
+02-Apr-23,Goal,Visual,0.530303030,0,35,66
+02-Apr-23,Streak,Visual,0.307692308,0,4,13
+02-Apr-23,Collection,Visual,0.028571429,0,1,35
+02-Apr-23,Course Certificate,Visual,0.5,0,28,56
+02-Apr-23,Career Track Certificate,Visual,0,0,0,1
+03-Apr-23,Text Post,Text Post,1,1,2,2
+03-Apr-23,Level,Visual,0.051020408,0,5,98
+03-Apr-23,Goal,Visual,0.333333333,0,2,6
+03-Apr-23,Streak,Visual,0.25,0,4,16
+03-Apr-23,Collection,Visual,0.024390244,0,1,41
+03-Apr-23,Course Certificate,Visual,0.224489796,0,11,49
+04-Apr-23,Level,Visual,0.008849558,0,1,113
+04-Apr-23,Streak,Visual,0.0625,0,1,16
+04-Apr-23,Collection,Visual,0.035714286,0,1,28
+04-Apr-23,Course Certificate,Visual,0.304347826,0,14,46
+05-Apr-23,Level,Visual,0.040816327,0,4,98
+05-Apr-23,Streak,Visual,0.2,0,4,20
+05-Apr-23,Collection,Visual,0,0,0,22
+05-Apr-23,Course Certificate,Visual,0.045454545,0,1,22
+05-Apr-23,Career Track Certificate,Visual,0,0,0,1
+06-Apr-23,Level,Visual,0.035294118,0,3,85
+06-Apr-23,Streak,Visual,0.263157895,0,5,19
+06-Apr-23,Collection,Visual,0.032258065,0,1,31
+06-Apr-23,Course Certificate,Visual,0.184210526,1,7,38
+07-Apr-23,Text Post,Text Post,1,0,1,1
+07-Apr-23,Level,Visual,0.009009009,0,1,111
+07-Apr-23,Streak,Visual,0.083333333,0,2,24
+07-Apr-23,Collection,Visual,0.035714286,0,1,28
+07-Apr-23,Course Certificate,Visual,0.318181818,0,14,44
+08-Apr-23,Text Post,Text Post,1,1,1,1
+08-Apr-23,Level,Visual,0.021978022,0,2,91
+08-Apr-23,Goal,Visual,0.333333333,0,2,6
+08-Apr-23,Streak,Visual,0.275862069,0,8,29
+08-Apr-23,Collection,Visual,0,0,0,33
+08-Apr-23,Course Certificate,Visual,0.085714286,0,3,35
+09-Apr-23,Level,Visual,0.02,0,2,100
+09-Apr-23,Goal,Visual,0.464285714,0,26,56
+09-Apr-23,Streak,Visual,0,0,0,17
+09-Apr-23,Collection,Visual,0.038461538,0,1,26
+09-Apr-23,Course Certificate,Visual,0.0625,0,2,32
+10-Apr-23,Text Post,Text Post,0.75,2,3,4
+10-Apr-23,Level,Visual,0.029702970,0,3,101
+10-Apr-23,Goal,Visual,0.4,0,2,5
+10-Apr-23,Streak,Visual,0.133333333,0,2,15
+10-Apr-23,Collection,Visual,0.05,1,2,40
+10-Apr-23,Course Certificate,Visual,0.2,0,10,50
+11-Apr-23,Level,Visual,0.016666667,0,2,120
+11-Apr-23,Streak,Visual,0.083333333,0,1,12
+11-Apr-23,Collection,Visual,0,0,0,36
+11-Apr-23,Course Certificate,Visual,0.066666667,0,2,30
+12-Apr-23,Text Post,Text Post,1,1,3,3
+12-Apr-23,Level,Visual,0,0,0,92
+12-Apr-23,Streak,Visual,0.315789474,0,6,19
+12-Apr-23,Collection,Visual,0,0,0,29
+12-Apr-23,Course Certificate,Visual,0.075,0,3,40
+13-Apr-23,Text Post,Text Post,1,1,4,4
+13-Apr-23,Level,Visual,0.029702970,0,3,101
+13-Apr-23,Streak,Visual,0.086956522,0,2,23
+13-Apr-23,Collection,Visual,0,0,0,20
+13-Apr-23,Course Certificate,Visual,0.045454545,0,1,22
+13-Apr-23,Career Track Certificate,Visual,0,0,0,1
+14-Apr-23,Text Post,Text Post,1,1,2,2
+14-Apr-23,Level,Visual,0.010101010,0,1,99
+14-Apr-23,Streak,Visual,0.153846154,0,2,13
+14-Apr-23,Collection,Visual,0.029411765,0,1,34
+14-Apr-23,Course Certificate,Visual,0.153846154,0,4,26
+15-Apr-23,Text Post,Text Post,1,0,1,1
+15-Apr-23,Level,Visual,0.049019608,0,5,102
+15-Apr-23,Goal,Visual,0.333333333,0,2,6
+15-Apr-23,Streak,Visual,0.157894737,0,3,19
+15-Apr-23,Collection,Visual,0,0,0,26
+15-Apr-23,Course Certificate,Visual,0.28125,0,9,32
+16-Apr-23,Text Post,Text Post,0,1,0,1
+16-Apr-23,Level,Visual,0.020833333,1,2,96
+16-Apr-23,Goal,Visual,0.483870968,0,30,62
+16-Apr-23,Streak,Visual,0.235294118,0,4,17
+16-Apr-23,Collection,Visual,0,0,0,24
+16-Apr-23,Course Certificate,Visual,0.186046512,0,8,43
+17-Apr-23,Text Post,Text Post,1,1,1,1
+17-Apr-23,Level,Visual,0.010869565,0,1,92
+17-Apr-23,Goal,Visual,0.428571429,0,3,7
+17-Apr-23,Streak,Visual,0.0625,0,1,16
+17-Apr-23,Collection,Visual,0,0,0,35
+17-Apr-23,Course Certificate,Visual,0.166666667,0,7,42
+18-Apr-23,Level,Visual,0.010752688,1,1,93
+18-Apr-23,Streak,Visual,0.0625,0,1,16
+18-Apr-23,Collection,Visual,0,0,0,40
+18-Apr-23,Course Certificate,Visual,0.083333333,0,5,60
+18-Apr-23,Career Track Certificate,Visual,1,0,1,1
+19-Apr-23,Text Post,Text Post,1,1,2,2
+19-Apr-23,Level,Visual,0.011111111,0,1,90
+19-Apr-23,Streak,Visual,0.142857143,0,2,14
+19-Apr-23,Collection,Visual,0.037037037,0,1,27
+19-Apr-23,Course Certificate,Visual,0.166666667,0,7,42
+20-Apr-23,Text Post,Text Post,1,0,1,1
+20-Apr-23,Level,Visual,0,0,0,89
+20-Apr-23,Streak,Visual,0.166666667,0,2,12
+20-Apr-23,Collection,Visual,0.038461538,0,1,26
+20-Apr-23,Course Certificate,Visual,0.148936170,0,7,47
+20-Apr-23,Career Track Certificate,Visual,0,0,0,1
+21-Apr-23,Text Post,Text Post,1,1,1,1
+21-Apr-23,Level,Visual,0.044943820,1,4,89
+21-Apr-23,Streak,Visual,0.238095238,0,5,21
+21-Apr-23,Collection,Visual,0.0625,0,2,32
+21-Apr-23,Course Certificate,Visual,0.131578947,0,5,38
+22-Apr-23,Level,Visual,0.027397260,0,2,73
+22-Apr-23,Goal,Visual,0.5,0,4,8
+22-Apr-23,Streak,Visual,0.25,0,5,20
+22-Apr-23,Collection,Visual,0.12,0,3,25
+22-Apr-23,Course Certificate,Visual,0.125,0,3,24
+22-Apr-23,Career Track Certificate,Visual,0,0,0,2
+23-Apr-23,Level,Visual,0.025316456,0,2,79
+23-Apr-23,Goal,Visual,0.5,0,32,64
+23-Apr-23,Streak,Visual,0.3,0,3,10
+23-Apr-23,Collection,Visual,0.1,0,3,30
+23-Apr-23,Course Certificate,Visual,0.290322581,0,9,31
+23-Apr-23,Career Track Certificate,Visual,1,0,1,1
+24-Apr-23,Level,Visual,0,0,0,81
+24-Apr-23,Goal,Visual,0.333333333,0,1,3
+24-Apr-23,Streak,Visual,0.190476190,0,4,21
+24-Apr-23,Collection,Visual,0,0,0,31
+24-Apr-23,Course Certificate,Visual,0.242424242,0,8,33
+25-Apr-23,Text Post,Text Post,1,2,3,3
+25-Apr-23,Level,Visual,0.01,0,1,100
+25-Apr-23,Streak,Visual,0.2,0,3,15
+25-Apr-23,Collection,Visual,0.041666667,0,1,24
+25-Apr-23,Course Certificate,Visual,0.206896552,0,6,29
+25-Apr-23,Career Track Certificate,Visual,0,0,0,1
+26-Apr-23,Level,Visual,0.0375,1,3,80
+26-Apr-23,Streak,Visual,0.166666667,1,3,18
+26-Apr-23,Collection,Visual,0.035714286,0,1,28
+26-Apr-23,Course Certificate,Visual,0.263157895,0,10,38
+27-Apr-23,Level,Visual,0.029126214,0,3,103
+27-Apr-23,Streak,Visual,0.105263158,0,2,19
+27-Apr-23,Collection,Visual,0.04,1,1,25
+27-Apr-23,Course Certificate,Visual,0.113636364,0,5,44
+28-Apr-23,Level,Visual,0,0,0,125
+28-Apr-23,Streak,Visual,0.15,0,3,20
+28-Apr-23,Collection,Visual,0,0,0,42
+28-Apr-23,Course Certificate,Visual,0.166666667,0,5,30
+28-Apr-23,Career Track Certificate,Visual,1,0,1,1
+29-Apr-23,Level,Visual,0.028571429,0,3,105
+29-Apr-23,Goal,Visual,0.5,0,4,8
+29-Apr-23,Streak,Visual,0.3125,0,5,16
+29-Apr-23,Collection,Visual,0,0,0,32
+29-Apr-23,Course Certificate,Visual,0.103448276,0,3,29
+29-Apr-23,Career Track Certificate,Visual,1,1,1,1
+30-Apr-23,Text Post,Text Post,1,0,1,1
+30-Apr-23,Level,Visual,0.011764706,0,1,85
+30-Apr-23,Goal,Visual,0.583333333,1,35,60
+30-Apr-23,Streak,Visual,0.4,0,8,20
+30-Apr-23,Collection,Visual,0,0,0,25
+30-Apr-23,Course Certificate,Visual,0.4,0,14,35
+01-May-23,Level,Visual,0.019607843,2,2,102
+01-May-23,Goal,Visual,0.571428571,0,4,7
+01-May-23,Streak,Visual,0.333333333,0,5,15
+01-May-23,Collection,Visual,0.025641026,0,1,39
+01-May-23,Course Certificate,Visual,0.3125,0,10,32
+02-May-23,Level,Visual,0.056074766,0,6,107
+02-May-23,Streak,Visual,0.230769231,1,3,13
+02-May-23,Collection,Visual,0.024390244,0,1,41
+02-May-23,Course Certificate,Visual,0.128205128,0,5,39
+03-May-23,Level,Visual,0.009708738,0,1,103
+03-May-23,Streak,Visual,0.230769231,0,3,13
+03-May-23,Collection,Visual,0.027777778,0,1,36
+03-May-23,Course Certificate,Visual,0.324324324,0,12,37
+04-May-23,Text Post,Text Post,1,1,1,1
+04-May-23,Level,Visual,0.038461538,0,4,104
+04-May-23,Streak,Visual,0.142857143,0,2,14
+04-May-23,Collection,Visual,0.090909091,0,3,33
+04-May-23,Course Certificate,Visual,0.407407407,0,11,27
+04-May-23,Career Track Certificate,Visual,1,0,1,1
+05-May-23,Text Post,Text Post,1,3,3,3
+05-May-23,Level,Visual,0.026666667,0,2,75
+05-May-23,Streak,Visual,0.125,0,2,16
+05-May-23,Collection,Visual,0,0,0,29
+05-May-23,Course Certificate,Visual,0.210526316,0,8,38
+05-May-23,Career Track Certificate,Visual,0,0,0,2
+06-May-23,Text Post,Text Post,1,0,1,1
+06-May-23,Level,Visual,0.025316456,2,2,79
+06-May-23,Goal,Visual,0.5,0,2,4
+06-May-23,Streak,Visual,0.259259259,0,7,27
+06-May-23,Collection,Visual,0.04,0,1,25
+06-May-23,Course Certificate,Visual,0.222222222,0,6,27
+07-May-23,Text Post,Text Post,1,2,3,3
+07-May-23,Level,Visual,0.027027027,1,2,74
+07-May-23,Goal,Visual,0.637931034,0,37,58
+07-May-23,Streak,Visual,0.266666667,0,4,15
+07-May-23,Collection,Visual,0,0,0,20
+07-May-23,Course Certificate,Visual,0.315789474,0,12,38
+07-May-23,Career Track Certificate,Visual,1,0,1,1
+08-May-23,Text Post,Text Post,1,1,2,2
+08-May-23,Level,Visual,0.056179775,0,5,89
+08-May-23,Goal,Visual,0.333333333,0,1,3
+08-May-23,Streak,Visual,0.384615385,0,5,13
+08-May-23,Collection,Visual,0.071428571,0,2,28
+08-May-23,Course Certificate,Visual,0.285714286,0,8,28
+09-May-23,Text Post,Text Post,1,1,4,4
+09-May-23,Level,Visual,0,0,0,88
+09-May-23,Streak,Visual,0,0,0,7
+09-May-23,Collection,Visual,0,0,0,24
+09-May-23,Course Certificate,Visual,0.131578947,0,5,38
+09-May-23,Career Track Certificate,Visual,0,0,0,1
+10-May-23,Level,Visual,0.025974026,0,2,77
+10-May-23,Streak,Visual,0.5,0,4,8
+10-May-23,Collection,Visual,0.045454545,0,1,22
+10-May-23,Course Certificate,Visual,0.410256410,0,16,39
+10-May-23,Career Track Certificate,Visual,1,1,1,1
+11-May-23,Level,Visual,0.008928571,0,1,112
+11-May-23,Streak,Visual,0.142857143,0,3,21
+11-May-23,Collection,Visual,0,0,0,29
+11-May-23,Course Certificate,Visual,0.346938776,0,17,49
+12-May-23,Level,Visual,0.009852217,0,2,203
+12-May-23,Streak,Visual,0.176470588,0,3,17
+12-May-23,Collection,Visual,0,0,0,115
+12-May-23,Course Certificate,Visual,0.151515152,0,10,66
+12-May-23,Career Track Certificate,Visual,0,0,0,3
+13-May-23,Text Post,Text Post,1,0,1,1
+13-May-23,Level,Visual,0.006430868,0,2,311
+13-May-23,Goal,Visual,0.5,0,1,2
+13-May-23,Streak,Visual,0.086956522,0,2,23
+13-May-23,Collection,Visual,0.006493506,0,1,154
+13-May-23,Course Certificate,Visual,0.014018692,0,3,214
+13-May-23,Career Track Certificate,Visual,0.1,1,1,10
+14-May-23,Level,Visual,0.013266998,2,8,603
+14-May-23,Goal,Visual,0.576271186,0,34,59
+14-May-23,Streak,Visual,0.222222222,0,4,18
+14-May-23,Collection,Visual,0.005847953,0,2,342
+14-May-23,Course Certificate,Visual,0.033112583,0,25,755
+14-May-23,Career Track Certificate,Visual,0.370370370,0,10,27
+15-May-23,Text Post,Text Post,1,1,1,1
+15-May-23,Level,Visual,0.017921147,0,5,279
+15-May-23,Goal,Visual,0.333333333,0,1,3
+15-May-23,Streak,Visual,0.2,0,3,15
+15-May-23,Collection,Visual,0,0,0,101
+15-May-23,Course Certificate,Visual,0.315972222,0,91,288
+15-May-23,Career Track Certificate,Visual,0,0,0,5
+16-May-23,Text Post,Text Post,1,0,1,1
+16-May-23,Level,Visual,0.024193548,1,3,124
+16-May-23,Streak,Visual,0.368421053,0,7,19
+16-May-23,Collection,Visual,0,0,0,36
+16-May-23,Course Certificate,Visual,0.159090909,0,7,44
+16-May-23,Career Track Certificate,Visual,0,0,0,3
+17-May-23,Text Post,Text Post,1,0,1,1
+17-May-23,Level,Visual,0.027027027,1,3,111
+17-May-23,Streak,Visual,0.2,0,3,15
+17-May-23,Collection,Visual,0.046511628,0,2,43
+17-May-23,Course Certificate,Visual,0.166666667,0,4,24
+18-May-23,Text Post,Text Post,0,1,0,1
+18-May-23,Level,Visual,0.026548673,0,3,113
+18-May-23,Streak,Visual,0.3125,0,5,16
+18-May-23,Collection,Visual,0.020408163,0,1,49
+18-May-23,Course Certificate,Visual,0.2,0,7,35
+18-May-23,Career Track Certificate,Visual,1,0,1,1
+19-May-23,Text Post,Text Post,1,1,1,1
+19-May-23,Level,Visual,0.018867925,0,2,106
+19-May-23,Streak,Visual,0.058823529,0,1,17
+19-May-23,Collection,Visual,0.027777778,0,1,36
+19-May-23,Course Certificate,Visual,0.085106383,0,4,47
+19-May-23,Career Track Certificate,Visual,1,0,1,1
+20-May-23,Text Post,Text Post,1,2,2,2
+20-May-23,Level,Visual,0.035294118,0,3,85
+20-May-23,Goal,Visual,0.2,0,1,5
+20-May-23,Streak,Visual,0.090909091,0,2,22
+20-May-23,Collection,Visual,0.023255814,0,1,43
+20-May-23,Course Certificate,Visual,0.230769231,0,6,26
+21-May-23,Level,Visual,0.025641026,0,2,78
+21-May-23,Goal,Visual,0.586206897,0,34,58
+21-May-23,Streak,Visual,0.2,0,3,15
+21-May-23,Collection,Visual,0.071428571,0,2,28
+21-May-23,Course Certificate,Visual,0.290322581,0,9,31
+22-May-23,Text Post,Text Post,1,1,1,1
+22-May-23,Level,Visual,0.027027027,0,3,111
+22-May-23,Goal,Visual,0.25,0,1,4
+22-May-23,Streak,Visual,0.142857143,0,2,14
+22-May-23,Collection,Visual,0.057142857,0,2,35
+22-May-23,Course Certificate,Visual,0.138888889,0,5,36
+23-May-23,Text Post,Text Post,1,1,1,1
+23-May-23,Level,Visual,0.016393443,0,1,61
+23-May-23,Streak,Visual,0.444444444,0,8,18
+23-May-23,Collection,Visual,0.029411765,0,1,34
+23-May-23,Course Certificate,Visual,0.176470588,0,6,34
+24-May-23,Level,Visual,0.080645161,1,5,62
+24-May-23,Streak,Visual,0.235294118,0,4,17
+24-May-23,Collection,Visual,0,0,0,26
+24-May-23,Course Certificate,Visual,0.114285714,0,4,35
+25-May-23,Text Post,Text Post,1,1,2,2
+25-May-23,Level,Visual,0,0,0,88
+25-May-23,Streak,Visual,0,0,0,12
+25-May-23,Collection,Visual,0.083333333,0,2,24
+25-May-23,Course Certificate,Visual,0.176470588,0,6,34
+26-May-23,Text Post,Text Post,1,2,2,2
+26-May-23,Level,Visual,0.026315789,0,2,76
+26-May-23,Streak,Visual,0.333333333,1,5,15
+26-May-23,Collection,Visual,0,0,0,30
+26-May-23,Course Certificate,Visual,0.178571429,0,5,28
+26-May-23,Career Track Certificate,Visual,0,0,0,1
+27-May-23,Level,Visual,0.037974684,0,3,79
+27-May-23,Goal,Visual,0.25,0,1,4
+27-May-23,Streak,Visual,0.266666667,0,8,30
+27-May-23,Collection,Visual,0.032258065,0,1,31
+27-May-23,Course Certificate,Visual,0.294117647,0,10,34
+27-May-23,Career Track Certificate,Visual,0,0,0,1
+28-May-23,Level,Visual,0.057471264,1,5,87
+28-May-23,Goal,Visual,0.573770492,0,35,61
+28-May-23,Streak,Visual,0.125,0,1,8
+28-May-23,Collection,Visual,0,0,0,27
+28-May-23,Course Certificate,Visual,0.311111111,0,14,45
+29-May-23,Text Post,Text Post,1,2,2,2
+29-May-23,Level,Visual,0.041095890,0,3,73
+29-May-23,Goal,Visual,0.333333333,0,1,3
+29-May-23,Streak,Visual,0.277777778,0,5,18
+29-May-23,Collection,Visual,0.085714286,0,3,35
+29-May-23,Course Certificate,Visual,0.318181818,0,7,22
+30-May-23,Text Post,Text Post,1,2,2,2
+30-May-23,Level,Visual,0.068181818,1,6,88
+30-May-23,Streak,Visual,0.3125,0,5,16
+30-May-23,Collection,Visual,0.054054054,0,2,37
+30-May-23,Course Certificate,Visual,0.261904762,0,11,42
+31-May-23,Text Post,Text Post,1,1,1,1
+31-May-23,Level,Visual,0.060975610,0,5,82
+31-May-23,Streak,Visual,0.266666667,0,4,15
+31-May-23,Collection,Visual,0,0,0,22
+31-May-23,Course Certificate,Visual,0.275,0,11,40
