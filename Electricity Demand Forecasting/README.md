@@ -21,23 +21,6 @@ Evaluation: Evaluates the model on a hold-out test set (all data from 2024) usin
 
 Inference: Includes a separate script to load the saved model and generate predictions.
 
-Project Structure
-electricity_forecasting/
-├── data/
-│   └── Electricity+Demand+Dataset.csv  <-- (Add your raw data here)
-├── models/
-│   └── (Empty - .gitignore tracks this folder)
-├── outputs/
-│   └── (Empty - .gitignore tracks this folder)
-├── .gitignore
-├── config.py
-├── eda.py
-├── feature_engineering.py
-├── predict.py
-├── README.md
-├── requirements.txt
-└── train.py
-
 How to Run
 
 1. Setup
@@ -89,3 +72,4 @@ Bash
 python eda.py
 
 Note on models/ and outputs/ Folders: These folders are intentionally empty in the repository. The .gitignore file prevents output files (like .pkl, .csv, .xlsx) from being committed. These files are generated on your local machine when you run train.py and predict.py.
+
