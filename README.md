@@ -54,6 +54,6 @@ I’m **Eswarakumar J**, an aspiring data scientist passionate about transformin
 ## 📬 Contact
 
 Feel free to connect or reach out via:
-- **LinkedIn**: [www.linkedin.com/in/eswarakumar-j-a5856b283]
+- **LinkedIn**: [www.linkedin.com/in/eswarakumar-j]
 - **Email**: [jeswarakumar4@gmail.com]
 
