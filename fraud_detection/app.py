@@ -41,7 +41,7 @@ st.markdown("Use this tool to predict if a transaction is potentially fraudulent
 # --- Load Model ---
 @st.cache_resource
 def load_model():
-    return joblib.load("models/Random_Forest.pkl")
+    return joblib.load("models/Fraud_Detection_XGB_model.pkl")
 
 try:
     model = load_model()
