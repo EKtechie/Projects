@@ -1,4 +1,7 @@
 # Fraud Detection System using XGBoost
+
+🌐 **Live Demo:** [https://projects-fd.streamlit.app/](https://projects-fd.streamlit.app/)
+
 ## 📌 Project Overview
 This project implements an end-to-end **Fraud Detection System** using **XGBoost** on a highly imbalanced financial transaction dataset.  
 The objective is to accurately identify fraudulent transactions while optimizing the **precision–recall tradeoff**, which is critical in fraud detection problems.
@@ -11,7 +14,7 @@ The objective is to accurately identify fraudulent transactions while optimizing
 - Used **SMOTE** (Synthetic Minority Oversampling) to balance the training set
 - Built an end-to-end **ImbPipeline**: Preprocessor → SMOTE → XGBClassifier
 - Optimized fraud-class **F1-score to 0.86** via threshold tuning
-- Deployed model using **Streamlit**
+- Deployed model using **Streamlit** — available live at [projects-fd.streamlit.app](https://projects-fd.streamlit.app/)
 - Serialized model using **Joblib** for inference
 
 ---
@@ -63,7 +66,12 @@ After downloading, place the CSV file inside the `data/` directory.
 
 ## 🚀 How to Run
 
-### Local Installation
+### Option 1: Live App (No Setup Required!)
+👉 Visit **[https://projects-fd.streamlit.app/](https://projects-fd.streamlit.app/)** directly in your browser — no installation needed.
+
+---
+
+### Option 2: Local Installation
 
 #### Prerequisites
 - Python 3.11 or 3.12 (recommended)
