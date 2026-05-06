@@ -4,6 +4,11 @@ import numpy as np
 import joblib
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
+import time
+
+# Prevents idle timeout by refreshing state
+if "keep_alive" not in st.session_state:
+    st.session_state.keep_alive = time.time()
 
 # --- Define Preprocessor (must match training exactly) ---
 class SimplePreprocessor(BaseEstimator, TransformerMixin):
